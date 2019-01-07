@@ -7,7 +7,7 @@
 说明 | 文件
 --- | ---
 Code-Review | [documents/code-review.md](documents/code-review.md)
-比赛攻略 | [contest_summary_toc.md](documents/contest_summary_toc.md)
+比赛攻略 | [documents/contest_summary_toc.md](documents/contest_summary_toc.md)
 
 ## 目录结构
 
