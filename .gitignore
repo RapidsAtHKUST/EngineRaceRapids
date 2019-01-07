@@ -1,0 +1,10 @@
+build
+cmake-build-debug
+lib
+tmp
+*.iml
+.idea
+*.o
+*.a
+.cproject
+.project
