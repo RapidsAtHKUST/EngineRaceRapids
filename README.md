@@ -8,6 +8,8 @@
 --- | ---
 Code-Review | [documents/code-review.md](documents/code-review.md)
 比赛攻略 | [documents/contest_summary_toc.md](documents/contest_summary_toc.md)
+PDF-比赛攻略 | [release-pdf-documents/Rapids-Contest-Summary.pdf](release-pdf-documents/Rapids-Contest-Summary.pdf)
+PDF-答辩PPT | [release-pdf-documents/Rapids-Defense-PPT.pdf](release-pdf-documents/Rapids-Defense-PPT.pdf)
 
 ## 目录结构
 
