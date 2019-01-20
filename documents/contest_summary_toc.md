@@ -1,5 +1,8 @@
 # 1. 比赛攻略 (Rapids团队 - C++实现)
 
+* 注意：详细代码和答辩PPT下载请查看Github仓库[RapidsAtHKUST/EngineRaceRapids](https://github.com/RapidsAtHKUST/EngineRaceRapids)。
+* Rapids团队成员: [CheYulin](https://github.com/CheYulin), [SunShixuan](https://github.com/shixuansun), [WangLipeng](https://github.com/WANG-lp)。
+
 ## 1.1. 赛题介绍
 
 评测程序分为2个阶段：
